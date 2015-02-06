@@ -1,0 +1,26 @@
+{
+  "name": "tag-search-write",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcosRava/tag-search-write.git"
+  },
+  "author": "= <=>",
+  "license": "ISC",
+  "dependencies": {
+    "disconnect": "^0.6.0",
+    "get-lyrics-api": "git+https://github.com/MarcosRava/get-lyrics-api",
+    "id3-writer": "^1.2.0",
+    "request": "^2.53.0",
+    "taglib": "^0.8.1"
+  },
+  "bugs": {
+    "url": "https://github.com/MarcosRava/tag-search-write/issues"
+  },
+  "homepage": "https://github.com/MarcosRava/tag-search-write"
+}
